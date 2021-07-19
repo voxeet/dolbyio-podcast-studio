@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.3)
+  - SwiftyJSON (5.0.1)
+  - VoxeetSDK (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - SwiftyJSON (~> 5.0)
+  - VoxeetSDK (~> 3.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyJSON
+    - VoxeetSDK
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  VoxeetSDK: 022658172e1277e7d8f7bdd25332958b97115542
+
+PODFILE CHECKSUM: bcd4b195310219d585e04310e122396067c32cf5
+
+COCOAPODS: 1.10.1

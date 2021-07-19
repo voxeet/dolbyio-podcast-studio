@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "target": "es6",
+        "module": "commonjs",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "strict": true,
+        "noEmit": true,
+        "allowJs": true,
+        "skipLibCheck": true,
+        "isolatedModules": true,
+        "esModuleInterop": true
+    },
+    "lib": ["es2015"],
+    "include": ["./producer/*.tsx", "./shared/*.ts"]
+}

@@ -1,0 +1,46 @@
+@import './colors.less';
+
+.actions {
+    background-color: @actionsBackgroundColor;
+    color: @actionsColor;
+    padding: 10px;
+    font-size: 1.25rem;
+
+    .separator {
+        border-right: 2px solid @actionsSeparatorColor;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .col-left,
+    .col-center,
+    .col-right {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .btn-xl {
+        padding: 0.5rem 1rem;
+        font-size: 1.25rem;
+        line-height: 1.5;
+        border-radius: 0.3rem;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .btn-action {
+        padding: 0.5rem 1.5rem;
+        min-width: 80px;
+        font-size: 1.5rem;
+        color: @textColor;
+        background: none;
+    }
+
+    .btn-action:hover {
+        color: @actionsColorHover;
+    }
+
+    .recording i {
+        color: @actionsRecordingColor;
+    }
+}
