@@ -1,7 +1,5 @@
 # Dolby.io - Podcast Studio
 
-[![pipeline status](https://gitlab-sfo.dolby.net/dolby-io/customer-success/podcast-studio/badges/master/pipeline.svg)](https://gitlab-sfo.dolby.net/dolby-io/customer-success/podcast-studio/-/commits/master)
-
 ## Web Application
 
 Here is the list of what you can do in this application:
